@@ -1,5 +1,3 @@
-Sure, here's a README template for your project:
-
 ---
 
 # Summer Olympics Data Analysis
